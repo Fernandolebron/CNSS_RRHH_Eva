@@ -1,0 +1,112 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #fff;
+}
+
+.heading{
+background-color: #009645;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+ /* Logo image */ 
+.image > a > img{
+    width:340px;
+    height:236px;   
+   display: block;
+    margin: 0 auto;
+}
+
+/*footer design */
+
+
+/*footer design */
+footer{
+  background-color: #003896;
+  color: #fff;
+  position: absolute;
+  width: 100%
+ 
+}
+
+.footer{
+
+  background-color: #003896;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+ 
+}
+
+/*menu css*/
+
+
+h1 {
+  margin-bottom: 20px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid #eee;
+}
+
+/*
+ * table
+ */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+/*
+ * Prueba
+ */
+.prueba > a >img{
+  width: 250px;
+  height: 250px;
+}
